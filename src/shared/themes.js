@@ -1,8 +1,13 @@
+import monokaiImage from '../assets/monokai.png';
+import atomOneDarkImage from '../assets/atomonedark.png';
+import tokyoNightImage from '../assets/tokyonight.png';
+import nightOwlImage from '../assets/nightowl.png';
+
 // Predefined themes for Jumpy2
 export const themes = [
   {
     name: 'Monokai',
-    image: '/monokai.png', // Placeholder, add actual image later
+    image: monokaiImage,
     colors: {
       labelFontColor: '#F8F8F2',
       labelBackgroundColor: '#272822',
@@ -14,7 +19,7 @@ export const themes = [
   },
   {
     name: 'Atom One Dark',
-    image: '/atomonedark.png',
+    image: atomOneDarkImage,
     colors: {
       labelFontColor: '#ABB2BF',
       labelBackgroundColor: '#282C34',
@@ -26,7 +31,7 @@ export const themes = [
   },
   {
     name: 'Tokyo Night',
-    image: '/tokyonight.png',
+    image: tokyoNightImage,
     colors: {
       labelFontColor: '#A6DAF8',
       labelBackgroundColor: '#1A1B26',
@@ -38,7 +43,7 @@ export const themes = [
   },
   {
     name: 'Night Owl',
-    image: '/nightowl.png',
+    image: nightOwlImage,
     colors: {
       labelFontColor: '#C3E88D',
       labelBackgroundColor: '#011627',

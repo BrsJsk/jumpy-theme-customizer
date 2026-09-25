@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="Jumpy app icon">
+  <rect width="1024" height="1024" fill="#2ADE7A"/>
+
+  <g fill="#0D1117">
+    <circle cx="520" cy="155" r="120"/>
+
+    <path d="M370 275L700 275L760 650L620 650L570 460H470L420 650H290L370 275Z"/>
+
+    <rect x="310" y="350" width="250" height="80" rx="30" transform="rotate(-26 310 350)"/>
+    <rect x="450" y="350" width="300" height="80" rx="30" transform="rotate(22 450 350)"/>
+
+    <rect x="330" y="610" width="140" height="200" rx="40" transform="rotate(24 330 610)"/>
+    <rect x="520" y="610" width="150" height="200" rx="40" transform="rotate(-28 520 610)"/>
+
+    <rect x="235" y="645" width="160" height="90" rx="24" transform="rotate(-10 235 645)"/>
+    <rect x="500" y="640" width="150" height="90" rx="24" transform="rotate(14 500 640)"/>
+
+    <path d="M230 820C350 760 420 750 520 760C620 770 705 790 810 860L750 935H280L230 820Z"/>
+
+    <rect x="625" y="705" width="70" height="90" rx="18"/>
+    <rect x="720" y="705" width="70" height="90" rx="18"/>
+    <rect x="815" y="705" width="70" height="90" rx="18"/>
+
+    <rect x="320" y="730" width="70" height="90" rx="18"/>
+    <rect x="415" y="730" width="70" height="90" rx="18"/>
+    <rect x="510" y="730" width="70" height="90" rx="18"/>
+    <rect x="605" y="730" width="70" height="90" rx="18"/>
+
+    <rect x="720" y="780" width="150" height="90" rx="20"/>
+    <path d="M725 760H865C900 760 930 790 930 825C930 860 900 890 865 890H725V760Z"/>
+  </g>
+
+  <g fill="#0D1117">
+    <rect x="270" y="820" width="150" height="100" rx="30"/>
+    <rect x="275" y="835" width="150" height="100" rx="30"/>
+    <path d="M210 840C260 790 320 770 370 770C420 770 480 790 520 830C470 900 420 930 360 935C290 940 245 905 210 840Z"/>
+  </g>
+</svg>

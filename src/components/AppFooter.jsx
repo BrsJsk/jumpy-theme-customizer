@@ -32,7 +32,7 @@ function AppFooter() {
         </a>{' '}
         &nbsp;|&nbsp;{' '}
         <a
-          href="https://joskonic.com/"
+          href="https://brsjsk.github.io/"
           target="_blank"
           rel="noopener noreferrer"
           style={{ color: '#7AA2F7', textDecoration: 'none', fontWeight: 600 }}
